@@ -29,6 +29,4 @@ def predict(qa_request: QARequest):
     answer_tokens = input_ids[start_idx:end_idx + 1]
     answer = tokenizer.decode(answer_tokens)
 
-    answer='ayush'
-
     return {"answer": answer}
