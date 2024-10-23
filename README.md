@@ -11,8 +11,6 @@ This project involves designing and implementing a generative-based chatbot usin
 - [User Interface](#user-interface)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Future Work](#future-work)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Overview
 The Generative AI Chatbot is a question-answering system that uses the Stanford Question Answering Dataset (SQuAD) for training. The chatbot is designed to provide accurate answers based on given context and user queries. Users can select different models and compare their responses directly through the user interface.
@@ -55,13 +53,3 @@ The models are evaluated using:
 - **Evaluation & Metrics**: Implementing more advanced evaluation methods like METEOR and improving error analysis.
 - **User Interface Improvements**: Adding a more interactive chat experience and real-time feedback on model performance.
 - **Deployment & Monitoring**: Deploying the chatbot on a scalable cloud platform and setting up monitoring for user interactions.
-
-## Contributors
-- **Ayush Kumar** - [GitHub](https://github.com/AyushKumarSD)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content to better fit your project’s specifics!
